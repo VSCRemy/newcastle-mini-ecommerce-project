@@ -38,6 +38,13 @@ window.addEventListener("scroll", scrollHeader);
 
 /*=============== NEW SWIPER ===============*/
 
+const newSwiper = new Swiper(".new-swiper", {
+  spaceBetween: 16,
+  centeredSlides: true,
+  slidesPerView: "auto",
+  loop: "true",
+});
+
 /*=============== SHOW SCROLL UP ===============*/
 
 /*=============== LIGHT BOX ===============*/
