@@ -8,12 +8,6 @@
 
 /*=============== SHOW CART ===============*/
 
-/*===== CART SHOW =====*/
-/* Validate if constant exists */
-
-/*===== CART HIDDEN =====*/
-/* Validate if constant exists */
-
 /*=============== SHOW LOGIN ===============*/
 
 /*===== LOGIN SHOW =====*/
